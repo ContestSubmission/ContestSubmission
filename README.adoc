@@ -1,0 +1,6 @@
+= ContestSubmission
+
+== Stack
+
+Frontend: Angular => lit
+Backend: Quarkus
