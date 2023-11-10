@@ -2,5 +2,5 @@
 
 == Stack
 
-Frontend: Angular => lit
+Frontend: Angular => lit +
 Backend: Quarkus
