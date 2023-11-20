@@ -1,6 +1,11 @@
 = ContestSubmission
 
-A website to host Contests and submit solutions by uploading files. Each contest in located in a seperate path an can be protected individually by the organizer.
+Contest Submission is a submission platform that allows you to submit your files as a team or as an individual. +
+This should happen without the server crashing and without long waiting times!
+
+Example: Company ... offers a photo contest and has posted all the required information. +
+Now the authorized participants can submit their photo projects by a certain deadline. +
+After the deadline, the company / jury will evaluate the submission together with all others directly on the platform.
 
 == Stack
 
