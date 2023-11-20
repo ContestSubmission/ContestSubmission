@@ -1,5 +1,7 @@
 = ContestSubmission
 
+A website to host Contests and submit solutions by uploading files. Each contest in located in a seperate path an can be protected individually by the organizer.
+
 == Stack
 
 link:https://github.com/ContestSubmission/Frontend[Frontend] +
