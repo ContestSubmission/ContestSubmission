@@ -2,5 +2,12 @@
 
 == Stack
 
-Frontend: Angular => lit +
-Backend: Quarkus
+link:https://github.com/ContestSubmission/Frontend[Frontend] +
+Vue 3
+
+link:https://github.com/ContestSubmission/Backend[Backend] +
+Quarkus
+
+== Contributions
+
+https://simulatan.github.io/AggregateContributions/?user=ContestSubmission
