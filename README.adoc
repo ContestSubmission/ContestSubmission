@@ -1,5 +1,5 @@
 = ContestSubmission
-
+== Description
 Contest Submission is a submission platform that allows you to submit your files as a team or as an individual. +
 This should happen without the server crashing and without long waiting times!
 
@@ -9,11 +9,12 @@ After the deadline, the company / jury will evaluate the submission together wit
 
 == Stack
 
-link:https://github.com/ContestSubmission/Frontend[Frontend] +
-Vue 3
-
-link:https://github.com/ContestSubmission/Backend[Backend] +
-Quarkus
+link:https://github.com/ContestSubmission/Frontend[Frontend]:  Vue 3 (TS) mit Pinia + Vite +
+link:https://github.com/ContestSubmission/Backend[Backend]: Quarkus (Kotlin) +
+Datenbank: PostgreSQL, evtl. Redis (Caching) +
+durable Storage: S3 +
+Monitoring: Prometheus + Tempo + Grafana (dev), Dynatrace (staging/prod) +
+Deployment: GitHub Actions, Kubernetes, ArgoCD +
 
 == Contributions
 
